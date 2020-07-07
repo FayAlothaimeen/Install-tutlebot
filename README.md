@@ -7,6 +7,7 @@ cd ~/catkin_ws/src/
 git clone https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git
 
 git clone https://github.com/ROBOTIS-GIT/turtlebot3.git
+
 cd ~/catkin_ws && catkin_make
 
 TurtleBot3 has three models, you have to set which model you want to use before you launch
