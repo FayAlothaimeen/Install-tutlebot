@@ -26,3 +26,9 @@ cd ~/catkin_ws && catkin_make
 First,launch TurtleBot3 in an empty environment by :
 
 roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch
+
+
+Assignment done by:
+-Fay Alothaimeen 
+-Haya Alomran 
+-Shoroog Almalki
